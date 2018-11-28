@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="MIN"
+          android:id="@+id/MinId"></item>
+    <item android:title="MAX"
+          android:id="@+id/MaxId"></item>
+          <item android:title="AVG"
+                android:id="@+id/AvgId"></item>
+
+    <item
+    android:title="ABOUT"
+    android:id="@+id/aboutID"
+    >
+</item>
+
+
+</menu>
